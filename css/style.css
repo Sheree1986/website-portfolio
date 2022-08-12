@@ -282,3 +282,15 @@ footer > p {
     text-align: center;
   }
 }
+
+#margin {
+  margin-left: 40%;
+  margin-right: 30%;
+
+}
+.card-body {
+  color: black;
+}
+.btn btn-primary {
+  color: black
+}
