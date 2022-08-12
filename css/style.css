@@ -282,12 +282,11 @@ footer > p {
     text-align: center;
   }
 }
+ #margin {
+  margin-left: 10%;
+  margin-right: 10%;
 
-#margin {
-  margin-left: 40%;
-  margin-right: 30%;
-
-}
+}  
 .card-body {
   color: black;
-}
+} 
